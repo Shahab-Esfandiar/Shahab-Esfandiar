@@ -1,10 +1,10 @@
 
 [![logo.png](https://i.postimg.cc/zBXMpZdL/logo.png)](https://postimg.cc/sBqwD8Cy)
 
-- 👋 Hi,I’m ___Shahab Esfandiar___,
+👋 Hi,I’m ___Shahab Esfandiar___,
 a geomatics engineer specializing in Geographic Information Systems (GIS). My passion lies in harnessing the power of spatial data to solve complex problems and drive innovation. With some foundation in GIS and geospatial data science, I am dedicated to expanding my knowledge and skills in these fields and particularly interested in the integration of advanced geospatial technologies and data analytics. I am always eager to collaborate with like-minded professionals who share my enthusiasm for geospatial science and its applications.
----
 
+---
 <h2>Skills and Interests</h2>
 
 <ul>
@@ -14,7 +14,7 @@ a geomatics engineer specializing in Geographic Information Systems (GIS). My pa
   <li><b><i>Python Programming :</i></b> Python is my favorite programming language. I have completed several projects in the fields of GIS and machine learning using Python, showcasing its versatility and power in handling complex geospatial data and analytical tasks.</li>
 </ul>
 
-- 🌱 And I’m currently learning various topics related to programming, such as object-oriented programming, as well as subjects in artificial intelligence like deep learning and DevOps, to enhance my skills and become a proficient geospatial data scientist.
+- 🌱 And I’m currently learning some topics related to programming, such as SQL and Javascript, as well as subjects in artificial intelligence like deep learning and DevOps, to enhance my skills and become a proficient geospatial data scientist.
 ---
 
 <h2>Contact Me</h2>

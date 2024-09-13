@@ -1,5 +1,5 @@
 
-![logo-transformed](https://github.com/user-attachments/assets/df8e66b2-d714-4f03-b488-cb19a4ae910e)
+![IMG_20240911_173330_579](https://github.com/user-attachments/assets/8504bdba-e027-409e-9b01-69a0b6491416)
 
 👋 Hi,I’m ___Shahab Esfandiar___,
 a geomatics engineer specializing in Geographic Information Systems (GIS). My passion lies in harnessing the power of spatial data to solve complex problems and drive innovation. With some foundation in GIS and geospatial data science, I am dedicated to expanding my knowledge and skills in these fields and particularly interested in the integration of advanced geospatial technologies and data analytics. I am always eager to collaborate with like-minded professionals who share my enthusiasm for geospatial science and its applications.

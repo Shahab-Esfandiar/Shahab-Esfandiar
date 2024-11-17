@@ -22,4 +22,4 @@ a geomatics engineer specializing in Geographic Information Systems (GIS). My pa
 
 <h2>📫 Contact Me</h2>
 
-<p>If you’d like to collaborate or just connect, you can reach me on LinkedIn or Telegram. I’m always open to new friends and ideas😄!</p>
+<p>If you’d like to collaborate or just connect, you can reach me on <a href="https://www.linkedin.com/in/shahab-esfandiar/">LinkedIn</a> or <a href="https://t.me/Shahaboo_iphxo">Telegram</a>. I’m always open to new friends and ideas😄!</p>

@@ -3,7 +3,7 @@
 
 
 👋 Hi, I’m ___Shahab Esfandiar___,
-a geomatics engineer specializing in the intersection of Geographic Information Systems (GIS) and AI Engineering. My passion lies in harnessing spatial data and modern artificial intelligence to solve complex problems and build automated, data-driven systems. With a strong background in geospatial data science, I am dedicated to bridging spatial technologies with applied machine learning and intelligent pipelines. I am always eager to collaborate with like-minded professionals who share my enthusiasm for spatial intelligence and software engineering.
+a geospatial developer specializing in the intersection of Geographic Information Systems (GIS) and AI Engineering. My passion lies in harnessing spatial data and modern artificial intelligence to solve problems and build automated, data-driven systems. With a strong background in data science, I am dedicated to bridging spatial technologies with applied machine learning and intelligent pipelines. I am always eager to collaborate with like-minded professionals who share my enthusiasm for spatial intelligence and software engineering.
 
 ---
 <h2>🛠 Skills and Interests</h2>
@@ -13,7 +13,7 @@ a geomatics engineer specializing in the intersection of Geographic Information 
   
   <li><b>GeoAI :</b> <i>I focus on integrating spatial data with Deep Learning and modern architectures to uncover geographic patterns, automate spatial reasoning, and build intelligent GIS applications.</i></li>
   
-  <li><b>Mathematical & Theoretical Foundations :</b> <i>A solid grasp of calculus, linear algebra, and physics provides the essential foundation for understanding machine learning algorithms, optimization methods, and rigorous spatial computations.</i></li>
+  <li><b>Mathematical & Physics :</b> <i>A solid grasp of calculus, linear algebra, and physics provides the essential foundation for understanding machine learning algorithms, optimization methods, and rigorous spatial computations.</i></li>
   
   <li><b>Python Programming :</b> <i>Python is my primary tool for developing end-to-end geospatial data manipulation and backend scripting to implementing machine learning models and AI-driven automation.</i></li>
 </ul>

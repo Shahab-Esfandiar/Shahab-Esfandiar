@@ -18,7 +18,7 @@ a geospatial developer specializing in the intersection of Geographic Informatio
   <li><b>Python Programming :</b> <i>Python is my primary tool for developing end-to-end geospatial data manipulation and backend scripting to implementing machine learning models and AI-driven automation.</i></li>
 </ul>
 
-- 🧠 And I’m currently deepening my knowledge in AI Agents, LLM system integration, MLOps and modern backend pipelines to grow as a proficient **GeoAI Engineer**.
+🧠 And I’m currently deepening my knowledge in AI Agents, LLM system integration, MLOps and modern backend pipelines to grow as a proficient **GeoAI Engineer**.
 ---
 
 <h2>📫 Contact Me</h2>
